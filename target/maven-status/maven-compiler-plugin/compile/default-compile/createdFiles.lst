@@ -1,0 +1,5 @@
+com\example\ec2\CursoRepository.class
+com\example\ec2\CursoController.class
+com\example\ec2\AlumnoController.class
+com\example\ec2\Curso.class
+com\example\ec2\Ec2Application.class
